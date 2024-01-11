@@ -3,6 +3,8 @@ The Simple Calculator is an Android application developed using Java and XML lay
 
 ![ezgif com-video-to-gif-converter](https://github.com/theshivamnagi/Simple-Calculator/assets/109956523/03217380-f02a-4ee0-9f68-29313f3a1bc7)
 
+![calculator](https://github.com/theshivamnagi/Simple-Calculator/assets/109956523/816526ab-f92a-47ee-9532-0d195a2cc295)
+
 
 - **Functionality**: The app can perform basic arithmetic operations like addition, subtraction, multiplication, and division. The operations are performed based on the user input.
 
